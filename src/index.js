@@ -64,6 +64,7 @@ const nameGenerator = function(name) {
 
 const transform = function( inputCssText ) {
   var cssNextVars = cssNext({
+    browsers: ['last 1 version'],
     features: {
       customProperties: { variables }
     }
