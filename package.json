@@ -1,6 +1,6 @@
 {
   "name": "inline-postcss-webpack-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load postcss/css files and use them as inline styles",
   "main": "lib/index.js",
   "scripts": {
