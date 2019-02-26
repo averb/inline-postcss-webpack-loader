@@ -6,7 +6,7 @@ module.exports = {
   gray: '#b1b1b1',
   silver: '#c0c0c0',
   borderColor: '#dbdbdb',
-  grayLightest: '#f0f1f1',
+  grayF2: '#f2f2f2',
   grayF7: '#f7f7f7',
   white: '#ffffff',
   red: '#fd6b6e',
@@ -28,6 +28,7 @@ module.exports = {
   systemFonts:
     '-apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif', // eslint-disable-line
 
+  spacerSmallest: '3px',
   spacerTiny: '6px',
   spacerSmall: '12px',
   spacer: '24px',
