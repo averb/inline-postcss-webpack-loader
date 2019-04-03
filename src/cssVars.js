@@ -21,15 +21,16 @@ module.exports = {
   font16: '16px',
   font18: '18px',
   font20: '20px',
+  font22: '22px',
   font24: '24px',
   font30: '30px',
   font36: '36px',
 
   systemFonts:
-    '-apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif', // eslint-disable-line
+    '-apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif',
 
   spacerSmallest: '3px',
-  spacerTiny: '6px',
+  spacerSmaller: '6px',
   spacerSmall: '12px',
   spacer: '24px',
   spacerLarge: '48px',
